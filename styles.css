@@ -1,0 +1,34 @@
+.sm-text {
+  font-size: 0.80rem; /* Adjust size as needed */
+}
+
+.navbar-brand img {
+  width: 40px; /* Adjust based on your logo size */
+}
+.nav-item .fa {
+  margin-right: 5px;
+}
+.wishlist {
+  position: relative;
+}
+.wishlist .badge {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background-color: #ff6f61;
+  color: white;
+}
+.cart {
+  position: relative;
+}
+.cart .badge {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background-color: #ff6f61;
+  color: white;
+}
+.search-btn {
+  background-color: #003366;
+  color: white;
+}
